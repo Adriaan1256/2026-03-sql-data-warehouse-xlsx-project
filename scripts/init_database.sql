@@ -18,7 +18,7 @@ GO
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'DataWarehouse_xlsx')
 BEGIN
   ALTER DATABASE DataWarehouse_xlsx SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-  DROP DataWarehouse_xlsx;
+  DROP DATABASE DataWarehouse_xlsx;
 END;
 
 -- Create the 'DataWarehouse_xlsx' database
