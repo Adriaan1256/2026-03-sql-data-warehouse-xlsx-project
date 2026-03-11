@@ -13,3 +13,16 @@ Specifications
 * Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
 * Scope: Focus on the latest dataset only; historization of data is not required.
 * Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+
+# Choose the Data architecture:
+
+After examining the project requirements it mis important too choose the correct data arcitecture there are 4 major types. I briefly imvestigated the pros and cons of each type:
+* Data Warehouse
+** Very good for structured data.
+* Data Lake
+** Can store structed, semi-structured and unstructered data. SUed when you have mixed data types and if the data is used for ML purposes.
+* Data Lakehouse
+* Data Mesh
+
+The data sources only containts structered data thus the Data Warehouse aproach is chosen.
+
