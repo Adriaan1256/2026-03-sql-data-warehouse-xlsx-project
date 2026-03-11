@@ -26,3 +26,9 @@ After examining the project requirements it mis important too choose the correct
 
 The data sources only containts structered data thus the Data Warehouse aproach is chosen.
 
+There are 4 different widely used approaches to build a data warehouse. For this project I will use the Medallion architecture however I breifly investigated all for types and discuss each one strength, weaknesses and potential trade offs.
+
+*Inmon
+*Kimball
+*Data Vault
+*Medallion Architecture
