@@ -5,14 +5,14 @@ Tte aim of this projec is familiarize myself with data warehouse consepts as wel
 The project is devided in a few categories:
 * Analyzing project requierments this will simulate stackholder ingagement in the real world where exspectations and deliverables will be set.
 
-##🚀 Project Requirements
-Building the Data Warehouse (Data Engineering)
-Objective
+## 🚀 Project Requirements
+# Building the Data Warehouse (Data Engineering)
+# Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 Specifications
-Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
-Data Quality: Cleanse and resolve data quality issues prior to analysis.
-Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
-Scope: Focus on the latest dataset only; historization of data is not required.
-Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+* Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
+* Data Quality: Cleanse and resolve data quality issues prior to analysis.
+* Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
+* Scope: Focus on the latest dataset only; historization of data is not required.
+* Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
