@@ -5,9 +5,9 @@ Tte aim of this projec is familiarize myself with data warehouse consepts as wel
 The project is devided in a few categories:
 * Analyzing project requierments this will simulate stackholder ingagement in the real world where exspectations and deliverables will be set.
 
-## 🚀 Project Requirements
-# Building the Data Warehouse (Data Engineering)
-# Objective
+# 🚀 Project Requirements
+## Building the Data Warehouse (Data Engineering)
+### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 Specifications
