@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-Tte aim of this projec is familiarize myself with data warehouse consepts as well as learn the basics of data warehousing. This will be done by building buildinga modern data warehouse using appropriate data warehousing consepts. The main dat injestion will be xlsx files.  Futhermore too improve my project management skills notion will be used during the project too keep track of the project progression as well as set measureable deliverables. 
+Tte aim of this projec is familiarize myself with data warehouse consepts as well as learn the basics of data warehousing. This will be done by building buildinga modern data warehouse using appropriate data warehousing consepts. The main dat injestion will be xlsx files.  Futhermore too improve my project management skills Notion will be used during the project too keep track of the project progression as well as set measureable deliverables. 
 
 # 🚀 Project Requirements
 ## Building the Data Warehouse (Data Engineering)
